@@ -14,7 +14,9 @@ Bir uygulama silmek için ayarlardan yapmalısınız
 
 # Kaynak Kodu
 
-Kaynak kodunu indirmek isterseniz Başlatıcı.zip
+Kaynak kodunu indirmek isterseniz Baslatici.zip
 dosyasını indirip Android Studio ile açmanız gerekir
 
+# indirme
 
+Sürümler kısmında apk dosyası var
